@@ -1,5 +1,7 @@
 # XMIDIxr : External MIDI Mixer
 
+## External MIDI Wavetable interface with mixer. 
+
 To get GERBER file, please go to "Release".
 
 ### How to use?
