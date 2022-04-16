@@ -4,6 +4,8 @@
 
 To get GERBER file, please go to "Release".
 
+![XCRL{2{SPMQJT(3WV2( 8~U](https://user-images.githubusercontent.com/69373938/163671283-2f49c9e6-6c5c-4050-8178-2a5e0c5f1210.png)
+
 ### How to use?
 
 -> Open it at EasyEDA (website: lceda.cn) .
