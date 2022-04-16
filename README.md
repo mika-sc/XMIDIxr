@@ -1,4 +1,4 @@
-# XMIDIxr
-## External MIDI Mixer
+# XMIDIxr : External MIDI Mixer
+
 
 
