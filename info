@@ -1,0 +1,206 @@
+{
+  "uuid": "eeb29febe08b81469aa327fd1c64b2ea",
+  "path": "Offline/External%20MIDI%20Interface",
+  "name": "External MIDI Interface",
+  "content": "",
+  "created_at": "2022-04-16 11:13:01",
+  "updated_at": "2022-04-16 17:44:21",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "4b9363114ff4dc1030b5bb573300f012",
+      "title": "XMIDIMixer",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {},
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "Wavetable Connector",
+          1,
+          "PINSOCKET_2X13_P2.54MM_VERTICAL",
+          "J1",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "Joystick/MIDI Input (Male)",
+          1,
+          "SB_DB15_152-3415",
+          "P1",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "Joystick/MIDI Output (Female)",
+          1,
+          "SB_DB15_152-3415",
+          "P2",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "1K",
+          2,
+          "SB_R_AXIAL_400",
+          "R1,R2",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "2.2K",
+          2,
+          "SB_R_AXIAL_400",
+          "R3,R4",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "Audio Input",
+          1,
+          "SB_SJ1-3553",
+          "S1",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "Audio Output",
+          1,
+          "SB_SJ1-3553",
+          "S2",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ]
+      ],
+      "updateTime": 1650090514,
+      "createTime": 1650082333,
+      "histories": [],
+      "created_at": "2022-04-16 12:12:13",
+      "updated_at": "2022-04-16 14:28:34"
+    },
+    {
+      "uuid": "70f618f10d1e3af8a987b61e7b4edb9d",
+      "puuid": "eeb29febe08b81469aa327fd1c64b2ea",
+      "title": "PCB_External MIDI Interface",
+      "filename": "PCB_External MIDI Interface.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "e9472c85207d4b2ca0e3329c92a2269e": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "Wavetable Connector",
+          1,
+          "PINSOCKET_2X13_P2.54MM_VERTICAL",
+          "J1",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "Joystick/MIDI Input (Male)",
+          1,
+          "SB_DB15_152-3415",
+          "P1",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "Joystick/MIDI Output (Female)",
+          1,
+          "SB_DB15_152-3415",
+          "P2",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "1K",
+          2,
+          "SB_R_AXIAL_400",
+          "R1,R2",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "2.2K",
+          2,
+          "SB_R_AXIAL_400",
+          "R3,R4",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "Audio Input",
+          1,
+          "SB_SJ1-3553",
+          "S1",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "Audio Output",
+          1,
+          "SB_SJ1-3553",
+          "S2",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ]
+      ],
+      "updateTime": 1650102261,
+      "createTime": 1650088786,
+      "histories": [],
+      "created_at": "2022-04-16 13:59:46",
+      "updated_at": "2022-04-16 17:44:21"
+    }
+  ],
+  "sort": [],
+  "title": "External MIDI Interface",
+  "foldername": "External MIDI Interface",
+  "schfilename": "External MIDI Interface.json",
+  "schfilemtime": 1650090514330
+}
