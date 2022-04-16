@@ -1,2 +1,4 @@
 # XMIDIxr
-External MIDI Wavetable interface with mixer
+## External MIDI Mixer
+
+
