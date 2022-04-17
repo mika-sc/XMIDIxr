@@ -4,7 +4,7 @@
   "name": "External MIDI Interface",
   "content": "",
   "created_at": "2022-04-16 11:13:01",
-  "updated_at": "2022-04-16 17:44:21",
+  "updated_at": "2022-04-17 17:36:39",
   "stick": "",
   "documents": [
     {
@@ -22,6 +22,36 @@
           "Package",
           "Components",
           "CustomPara"
+        ],
+        [
+          "470uF 16V",
+          2,
+          "SB_C_RADIAL_100_320",
+          "C1,C2",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "0.1uF",
+          2,
+          "SB_C_AXIAL_275",
+          "C3,C4",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
+        ],
+        [
+          "4.7uF",
+          2,
+          "SB_C_AXIAL_275",
+          "C5,C6",
+          {
+            "puuid": "",
+            "uuid": ""
+          }
         ],
         [
           "Wavetable Connector",
@@ -94,11 +124,11 @@
           }
         ]
       ],
-      "updateTime": 1650090514,
+      "updateTime": 1650187970,
       "createTime": 1650082333,
       "histories": [],
       "created_at": "2022-04-16 12:12:13",
-      "updated_at": "2022-04-16 14:28:34"
+      "updated_at": "2022-04-17 17:32:50"
     },
     {
       "uuid": "70f618f10d1e3af8a987b61e7b4edb9d",
@@ -191,16 +221,16 @@
           }
         ]
       ],
-      "updateTime": 1650102261,
+      "updateTime": 1650188199,
       "createTime": 1650088786,
       "histories": [],
       "created_at": "2022-04-16 13:59:46",
-      "updated_at": "2022-04-16 17:44:21"
+      "updated_at": "2022-04-17 17:36:39"
     }
   ],
   "sort": [],
   "title": "External MIDI Interface",
   "foldername": "External MIDI Interface",
   "schfilename": "External MIDI Interface.json",
-  "schfilemtime": 1650090514330
+  "schfilemtime": 1650187970927
 }
