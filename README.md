@@ -12,8 +12,10 @@
 
 Click "Document" > "Open" > "EasyEDA Source", and select "PCB_External MIDI Interface.json".
 
-### Notice
+### Notice for sound card without line in connector:
 
-You can connect Audio Input port to your soundcard output,
+This card can mix MIDI output and soundcard output.
 
-sound of soundcard and external MIDI wavetable card will mixed together.
+Just insert the soundcard output port into the INPUT port of this.
+
+
