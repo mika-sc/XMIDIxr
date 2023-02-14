@@ -12,7 +12,7 @@
 
 Click "Document" > "Open" > "EasyEDA Source", and select "PCB_External MIDI Interface.json".
 
-### Notice for sound card without line in connector:
+### Notice for sound card without LINE IN connector:
 
 This card can mix MIDI output and soundcard output.
 
