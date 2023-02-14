@@ -1,6 +1,8 @@
 
 
+#External MIDI Interface & Mixer
 
+![7134K{LE3L0 A}X`XB8DKYG](https://user-images.githubusercontent.com/69373938/218625967-11e4d163-6ef9-424f-ae87-8cefb794b370.png)
 
 
 ### How to use?
