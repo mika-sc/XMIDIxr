@@ -8,7 +8,7 @@
 
 ### How to use?
 
--> Open it at EasyEDA (website: lceda.cn) .
+-> Open it at EasyEDA (website: easylda.com) .
 
 Click "Document" > "Open" > "EasyEDA Source", and select "PCB_External MIDI Interface.json".
 
